@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Poker
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=hand
+comment10.target=int\ hasStraight(java.util.List)
+comment11.params=hand
+comment11.target=int\ hasThreeKind(java.util.List)
+comment2.params=p
+comment2.target=int\ getHandType(Player)
+comment3.params=hand
+comment3.target=int\ hasPair(java.util.List)
+comment4.params=hand
+comment4.target=int\ hasTwoPair(java.util.List)
+comment5.params=hand
+comment5.target=int\ hasFlush(java.util.List)
+comment6.params=hand
+comment6.target=int\ hasStraightFlush(java.util.List)
+comment7.params=hand
+comment7.target=int\ hasRoyalFlush(java.util.List)
+comment8.params=hand
+comment8.target=int\ hasFourKind(java.util.List)
+comment9.params=hand
+comment9.target=int\ hasFullHouse(java.util.List)
+numComments=12
